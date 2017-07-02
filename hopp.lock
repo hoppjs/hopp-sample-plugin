@@ -1,0 +1,1 @@
+{"v":"1.0.0-alpha.21","p":{"hopp-plugin-babel":{}},"_":[1498964311000,{"default":{"d":{"src":["lib/**/*.js"],"stack":[["hopp-plugin-babel",[]]],"rename":[],"dest":"dist"},"needsBundling":false,"needsRecaching":false,"readonly":false},"watch":["watch",["default"]]}],"sc":{"default":{"lib/index.js":1498364049000}}}

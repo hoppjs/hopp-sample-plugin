@@ -44,5 +44,3 @@ exports.default = function () {
     return _ref.apply(this, arguments);
   };
 }();
-
-//# sourceMappingURL=index.js.map
